@@ -1,5 +1,5 @@
 # SIR model simulation
-!(GIF)[results/seir_simulation.gif]
+![GIF](results/seir_simulation.gif)
 
 
 ### Stochastic agent-based model
