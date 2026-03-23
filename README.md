@@ -3,7 +3,7 @@
 
 
 ### Stochastic agent-based model
-![stochastic approach](results/SIR_simulation.png)
+![stochastic approach](results/sir_simulation.png)
 
 
 
