@@ -1,1 +1,13 @@
-![SIR PICTURE V1](SIR.png)
+# SIR model simulation
+!(GIF)[results/seir_simulation.gif]
+
+
+### Stochastic agent-based model
+![stochastic approach](results/SIR_simulation.png)
+
+
+
+### mathematical deterministic approach
+![mathematical approach](results/SIR.png)
+(see in `mathematical.py`)
+
