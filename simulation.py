@@ -8,11 +8,11 @@ np.random.seed(42)
 # ── Parameters ────────────────────────────────────────────────────────────────
 N                = 300
 INITIAL_INFECTED = 3
-infection_radius = 0.035
+infection_radius = 0.015
 infection_prob   = 0.35
 recovery_steps   = 80    # avg steps before recovery (varies per individual)
 steps            = 400
-speed            = 0.009
+speed            = 0.003
 
 # ── States ────────────────────────────────────────────────────────────────────
 S, I, R = 0, 1, 2

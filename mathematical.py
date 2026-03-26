@@ -7,7 +7,7 @@ N = 1000        # Total population
 I0 = 1          # Initial infected
 R0 = 0          # Initial recovered
 S0 = N - I0 - R0 # Initial susceptible
-beta = 0.3      # Transmission rate
+beta = 0.5      # Transmission rate
 gamma = 0.1     # Recovery rate
 t = np.linspace(0, 160, 160) # Time grid (days)
 
