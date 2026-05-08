@@ -6,7 +6,7 @@
 
 
 ### Stochastic ABM (Agent-based model)
-![stochastic approach](img/sir_simulation.png)
+![stochastic approach](results/sir_simulation.png)
 
 
 ### Fundamental Mathematical deterministic model
